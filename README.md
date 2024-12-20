@@ -2,7 +2,7 @@
 
 A simple Go library that implement singleton
 
-## Useage
+## Usage
 
 ```go
 package main
